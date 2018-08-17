@@ -19,8 +19,11 @@
   },
   "homepage": "https://github.com/Royosef/React-Training-Project#readme",
   "dependencies": {
+    "@material-ui/core": "^1.5.0",
+    "@material-ui/icons": "^2.0.2",
     "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.4.2",
+    "styled-components": "^3.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
