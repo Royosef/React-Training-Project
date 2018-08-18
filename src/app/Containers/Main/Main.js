@@ -3,32 +3,25 @@ import Button from '@material-ui/core/Button';
 import Grid from '@material-ui/core/Grid';
 import AddIcon from '@material-ui/icons/Add';
 import styled from 'styled-components';
-import UserPreview from './UserPreview';
+import Users from '../../Assets/Users.json';
+import UsersList from './Components/UsersList/UsersList';
 
 const AddButton = styled(Button)`
   && {
-    position: absolute;
+    position: fixed;
     bottom: 2em;
     right: 2em;
   }
 `;
 
-const UserPreviewsGrid = styled(Grid)`
-  && {
-    padding-top: 80px;
-  }
-`;
-
 function Main () {
   return (
-    <div>
-      <UserPreviewsGrid xs={4}>
-        <UserPreview name='GG' description='sdgvsrsgv' />
-      </UserPreviewsGrid>
+    <Grid container justify='center'>
+      <UsersList data={Users} />
       <AddButton variant='fab' color='secondary' aria-label='Add'>
         <AddIcon />
       </AddButton>
-    </div>
+    </Grid>
   );
 }
 
