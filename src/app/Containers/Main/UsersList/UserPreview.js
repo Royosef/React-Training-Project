@@ -13,7 +13,7 @@ const AboutClampLinesTypo = styled(ClampLines)`
   }
 `;
 
-function SimpleMediaCard ({name, description}) {
+const SimpleMediaCard = ({name, description}) => {
   return (
     <div>
       <Card>
@@ -31,6 +31,6 @@ function SimpleMediaCard ({name, description}) {
       </Card>
     </div>
   );
-}
+};
 
 export default SimpleMediaCard;

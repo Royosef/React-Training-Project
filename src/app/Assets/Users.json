@@ -3,9 +3,8 @@
     "guid": "8c4e83ed-1139-4063-adfa-a66bad6db223",
     "age": 22,
     "name": "Lacey Kane",
-    "gender": "female",
     "about": "Anim officia ut sit amet tempor id sunt irure officia ad amet commodo anim nostrud. Officia Lorem ea adipisicing eu. In aliqua et eu fugiat amet cupidatat. Sint fugiat nostrud incididunt qui. Minim culpa ut voluptate nisi exercitation ullamco esse occaecat excepteur irure magna. Lorem mollit in est proident voluptate elit eu anim non.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "pear",
       "peach"
     ]
@@ -14,9 +13,8 @@
     "guid": "6970ddde-cc21-48e9-ae90-641d2792aded",
     "age": 30,
     "name": "Kasey Hood",
-    "gender": "female",
     "about": "Consequat labore pariatur elit occaecat pariatur aliqua veniam sunt. Excepteur magna id ex non voluptate ullamco amet ex sit labore. Lorem adipisicing velit do sint officia proident. Excepteur ut adipisicing magna id ad nisi exercitation. Ipsum aliquip aliquip excepteur adipisicing. Et dolore officia laboris ea nostrud aliqua id sint ut excepteur aute tempor. Officia occaecat quis ea amet sunt aute aute Lorem officia aliqua est laborum.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "date",
       "avocado"
     ]
@@ -26,9 +24,8 @@
     
     "age": 18,
     "name": "Angelica Rasmussen",
-    "gender": "female",
     "about": "Pariatur est occaecat anim quis incididunt est veniam amet elit do culpa aliquip aliquip. Nulla do ex sunt ad adipisicing veniam fugiat. Non cupidatat reprehenderit adipisicing ad irure occaecat cupidatat. Deserunt aliquip fugiat quis ullamco duis aliquip in ad eu est laborum in nisi culpa. Sunt sunt veniam tempor duis anim pariatur fugiat in.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "berry",
       "raspberry",
       "raspberry",
@@ -39,9 +36,8 @@
     "guid": "962c394c-1749-4424-9d21-cb78d43f9f44",
     "age": 29,
     "name": "Parks Petersen",
-    "gender": "male",
     "about": "Eu ex officia et dolor sint id adipisicing qui. Et sint Lorem irure culpa pariatur consequat nulla. Ex exercitation anim nulla laboris esse aute et deserunt aliqua.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "coconut",
       "apple",
       "guava"
@@ -51,9 +47,8 @@
     "guid": "633a4d95-6865-4578-8377-67560ff5690d",
     "age": 35,
     "name": "Butler Randall",
-    "gender": "male",
     "about": "Adipisicing ipsum qui elit aliqua non sit. Consequat officia consequat laborum amet labore excepteur non. Sunt duis laborum qui ea sit ullamco fugiat labore dolor ullamco ut nulla.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "pear",
       "avocado",
       "mango",
@@ -64,9 +59,8 @@
     "guid": "3c4ed40a-0e0c-45b1-a6ab-7ca5c14e86e8",
     "age": 29,
     "name": "Horn Schultz",
-    "gender": "male",
     "about": "Dolore minim id aute occaecat irure excepteur laboris minim cupidatat tempor occaecat. Sunt cupidatat veniam culpa veniam magna voluptate nostrud amet laborum do reprehenderit. Esse reprehenderit enim nulla ullamco commodo irure dolor voluptate fugiat ad. Aliqua esse mollit ad velit eiusmod non magna aute do. Consectetur consequat officia aliquip non dolor pariatur quis ipsum anim Lorem quis incididunt.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "mango",
       "tangerine"
     ]
@@ -75,9 +69,8 @@
     "guid": "1ac51744-36cd-4037-a977-eefbe37485e0",
     "age": 22,
     "name": "Jaclyn Valenzuela",
-    "gender": "female",
     "about": "Id veniam velit consequat duis amet eiusmod nostrud incididunt consequat adipisicing anim. Voluptate consequat fugiat officia adipisicing anim non commodo fugiat ipsum exercitation tempor duis. Ut ullamco nostrud veniam exercitation tempor excepteur culpa sunt in minim nulla enim occaecat culpa. Ullamco consequat commodo eiusmod in qui laboris consectetur. Sunt Lorem nulla aute mollit anim aliqua enim ullamco amet. Ea aliquip eu ullamco veniam cillum. Veniam qui tempor veniam tempor excepteur ullamco non.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "melon"
     ]
   },
@@ -85,9 +78,8 @@
     "guid": "c2c14bc4-8831-4c3d-aa44-c2852d2d0a8d",
     "age": 20,
     "name": "Tamara Phelps",
-    "gender": "female",
     "about": "Officia officia esse sunt non. Eiusmod sint do dolore elit ea enim mollit cillum consequat Lorem elit. Officia Lorem veniam ipsum velit et ullamco enim Lorem esse amet occaecat duis et quis.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "raspberry",
       "apricot",
       "date",
@@ -99,9 +91,8 @@
     "guid": "f1768bd6-ebbb-4f41-9c11-c7ddef25fb13",
     "age": 30,
     "name": "Carr Lynch",
-    "gender": "male",
     "about": "Exercitation exercitation qui quis consequat magna exercitation. Quis commodo laboris est adipisicing duis et. Proident ex aliquip fugiat non mollit do nostrud ea pariatur culpa eu exercitation aliqua culpa. Eu amet adipisicing amet culpa fugiat nulla fugiat culpa exercitation cillum dolor irure laboris sint.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "fig",
       "mango",
       "lemon"
@@ -111,9 +102,8 @@
     "guid": "c3a42a31-8900-4ea6-ab20-e6c5c8f3bc15",
     "age": 19,
     "name": "Terry Forbes",
-    "gender": "female",
     "about": "Irure tempor exercitation officia proident. Excepteur magna sit exercitation elit pariatur officia ea irure nostrud nulla adipisicing. Id Lorem duis irure dolor. Nisi enim enim elit tempor exercitation.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "fig",
       "lemon",
       "raisin"
@@ -123,9 +113,8 @@
     "guid": "d8bf02d6-6d6f-4707-ba5a-0666130efeae",
     "age": 31,
     "name": "Francis Freeman",
-    "gender": "male",
     "about": "Quis sit esse excepteur amet dolor veniam laborum sint minim incididunt cillum nostrud ullamco. Qui do aliquip adipisicing fugiat dolor magna voluptate nostrud ipsum. Eiusmod velit consectetur id dolor officia ullamco exercitation non ea labore.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "kiwi",
       "berry",
       "grape",
@@ -137,9 +126,8 @@
     "guid": "88fa12a5-4bbc-4d2b-a1d0-54af74b4b3dd",
     "age": 38,
     "name": "Alexander Carr",
-    "gender": "male",
     "about": "Tempor occaecat aliquip veniam enim nulla. Mollit et aute ut dolore officia mollit esse esse adipisicing pariatur id nisi minim exercitation. Eu veniam elit officia sint qui duis deserunt elit. Laborum consectetur esse ad deserunt magna ea nisi sint aute. Incididunt eiusmod nulla minim minim non aliquip esse culpa in in sint excepteur fugiat officia. Aliqua ut cillum officia sint ut nostrud.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "avocado",
       "apple",
       "citron",
@@ -151,9 +139,8 @@
     "guid": "66bf0035-a529-4990-9a16-ac02cb6ccb35",
     "age": 21,
     "name": "Lynch Parsons",
-    "gender": "male",
     "about": "Exercitation nostrud et dolor id aliqua ea tempor. Elit non quis consectetur consectetur cillum Lorem qui qui aliquip aliquip elit consequat magna. Voluptate est minim aliquip commodo officia. Excepteur ea dolor elit aliqua deserunt nisi consequat laborum cillum ea.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "coconut",
       "lemon",
       "lime",
@@ -164,9 +151,8 @@
     "guid": "fa27c0e6-493f-4159-bb0a-243eb248fbb3",
     "age": 23,
     "name": "Gwendolyn Luna",
-    "gender": "female",
     "about": "Minim duis nisi proident officia cupidatat id Lorem. Non ipsum culpa do ad ut ullamco nulla est excepteur reprehenderit culpa duis ullamco sint. Ea ex minim et veniam quis dolor ipsum esse elit enim eu eiusmod eiusmod. Enim amet deserunt labore aliqua labore Lorem id elit non.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "prune",
       "fig"
     ]
@@ -175,9 +161,8 @@
     "guid": "cdc80a68-a0d1-4967-a013-b05f0106285d",
     "age": 22,
     "name": "Bridgette Wall",
-    "gender": "female",
     "about": "Ipsum commodo quis ut laboris. Reprehenderit veniam veniam in labore ex non dolore qui do amet laborum aliqua. Enim qui incididunt proident laborum cillum quis aliqua cillum elit exercitation. Cillum do eiusmod eu nisi veniam sunt consequat reprehenderit anim et eiusmod veniam.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "pear",
       "cherry",
       "melon",
@@ -188,9 +173,8 @@
     "guid": "c69b1cde-b270-4224-8106-106c0ad48756",
     "age": 21,
     "name": "Freida Montgomery",
-    "gender": "female",
     "about": "Laborum qui non voluptate consectetur ea do eiusmod laboris nostrud enim nisi esse. Veniam mollit aute ea pariatur consectetur eu. Ea est enim eu ut non veniam. Magna labore exercitation elit id. Cupidatat incididunt deserunt do aute. Cupidatat excepteur ea minim enim aliqua cillum aliquip ea.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "mango"
     ]
   },
@@ -198,9 +182,8 @@
     "guid": "7ddcaef9-3bf0-4abf-be97-76bb5f988d73",
     "age": 23,
     "name": "Abigail Sears",
-    "gender": "female",
     "about": "Et ad veniam aliqua id proident Lorem tempor. Consectetur proident veniam ea fugiat sunt adipisicing excepteur in culpa est. Dolore fugiat esse reprehenderit culpa aliqua cupidatat aute reprehenderit ullamco velit proident velit laboris sit. Adipisicing nulla aute dolor sit officia laborum. Ut magna consequat in elit ipsum incididunt magna consectetur ut. Dolore aliquip esse commodo Lorem veniam ea officia sunt ullamco.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "peach",
       "cantaloupe",
       "fig"
@@ -210,9 +193,8 @@
     "guid": "fb38be10-8170-489e-a4e8-ab95f569ac76",
     "age": 38,
     "name": "Francis Gaines",
-    "gender": "female",
     "about": "Sit amet amet eu non consectetur Lorem laborum eiusmod. Nostrud mollit sint commodo deserunt ea cillum magna do laborum tempor non laboris magna. Enim consectetur aliquip nisi est qui voluptate.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "guava",
       "date",
       "avocado",
@@ -223,9 +205,8 @@
     "guid": "5bcab2d6-c76b-4aff-a780-5cb0858ca722",
     "age": 28,
     "name": "Reyes Bowman",
-    "gender": "male",
     "about": "Ea quis non ipsum anim et. Enim qui dolor non commodo velit pariatur aliqua id cupidatat velit. Commodo sunt eu velit aute tempor labore labore incididunt mollit nisi id mollit Lorem ad. Officia eu dolore eu irure eiusmod ut. Deserunt mollit officia qui irure do esse dolor amet incididunt magna.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "lime",
       "apple",
       "raspberry",
@@ -236,9 +217,8 @@
     "guid": "c3aa91ed-1e59-4b3e-87af-824a23a4b21e",
     "age": 34,
     "name": "Burns Jensen",
-    "gender": "male",
     "about": "Aliqua irure est ad aliqua anim. Laborum amet do minim labore qui proident excepteur eiusmod dolor ipsum irure. Laboris incididunt irure eu minim veniam sunt elit officia tempor Lorem. Ea aute est cupidatat ut aliqua nulla commodo eiusmod dolore consequat pariatur incididunt sunt laboris. Sint ut officia sit dolor ad incididunt magna nulla fugiat labore irure ad sit. Reprehenderit amet consectetur anim incididunt. Ex veniam ad ut veniam anim culpa enim est anim cillum proident.\r\n",
-    "favorite_fruit": [
+    "favoriteFruit": [
       "cantaloupe"
     ]
   }

@@ -4,7 +4,7 @@ import Grid from '@material-ui/core/Grid';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
-import Main from './Containers/Main/Main';
+import Main from './Components/Main/Main';
 
 function App () {
   return (
