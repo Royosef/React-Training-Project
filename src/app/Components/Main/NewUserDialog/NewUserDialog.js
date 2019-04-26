@@ -119,6 +119,7 @@ class NewUserForm extends React.Component {
             </Button>
             <Button
               type='submit'
+              variant='contained'
               color='primary'
             >{'confirm'}
             </Button>

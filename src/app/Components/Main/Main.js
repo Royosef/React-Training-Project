@@ -41,9 +41,17 @@ class Main extends React.Component {
       open: false
     });
 
-    this.saveUsersListToFile();
-
     notify.show(`${newUser.name} created successfully.`, 'success', 2000);
+  };
+
+  onDeleteUser = userGuid => {
+    const {users} = this.state;
+
+    const updatedUsers = users.filter(user => user.guid !== userGuid);
+
+    this.setState({
+      users: updatedUsers
+    });
   };
 
   render = () => {
@@ -52,7 +60,10 @@ class Main extends React.Component {
     return (
       <Grid container justify='center'>
         <Notifications options={{top: '60px'}} />
-        <UsersList data={users} />
+        <UsersList
+          data={users}
+          onDelete={this.onDeleteUser}
+        />
         <AddButton
           variant='fab'
           color='secondary'
