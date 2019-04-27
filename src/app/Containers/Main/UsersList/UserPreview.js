@@ -6,6 +6,7 @@ import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import ClampLines from 'react-clamp-lines';
+import {Link} from 'react-router-dom';
 import UserPreviewMenuButton from '../../../Components/Main/UsersList/UserPreviewMenuButton';
 
 const AboutClampLinesTypo = styled(ClampLines)`
@@ -36,6 +37,8 @@ const SimpleMediaCard = ({guid, name, description, onDelete}) => {
             size='small'
             color='primary'
             variant='outlined'
+            to={`/users/${guid}`}
+            component={Link}
           >
             {'Read More'}
           </Button>

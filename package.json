@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run build",
-    "build": "webpack --mode=development && copy \".\\src\\index.html\" \".\\dist\\index.html\" && webpack-dev-server --mode=development --content-base src/ --inline --hot",
+    "build": "webpack --mode=development && copy \".\\src\\index.html\" \".\\dist\\index.html\" && webpack-dev-server --mode=development --inline --hot",
     "build:prod": "webpack --mode=production && copy \".\\src\\index.html\" \".\\dist\\index.html\""
   },
   "repository": {
@@ -25,6 +25,7 @@
     "react-clamp-lines": "^1.1.0",
     "react-dom": "^16.4.2",
     "react-notify-toast": "^0.5.0",
+    "react-router-dom": "^5.0.0",
     "styled-components": "^3.4.2",
     "uuid": "^3.3.2"
   },

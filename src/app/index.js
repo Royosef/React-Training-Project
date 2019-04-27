@@ -4,7 +4,7 @@ import Grid from '@material-ui/core/Grid';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
-import Main from './Components/Main/Main';
+import Router from './Components/Router';
 
 function App () {
   return (
@@ -14,7 +14,9 @@ function App () {
           <Typography color='inherit'>{'React Training Project'}</Typography>
         </Toolbar>
       </AppBar>
-      <Main />
+      <div style={{marginTop: '80px'}} >
+        <Router />
+      </div>
     </Grid>
   );
 }
