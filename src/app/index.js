@@ -4,9 +4,18 @@ import Grid from '@material-ui/core/Grid';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
+import styled from 'styled-components';
 import Router from './Components/Router';
 
-function App () {
+const AppContainer = styled('div')`
+  && {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+`;
+
+const App = () => {
   return (
     <Grid>
       <AppBar>
@@ -14,9 +23,9 @@ function App () {
           <Typography color='inherit'>{'React Training Project'}</Typography>
         </Toolbar>
       </AppBar>
-      <div style={{marginTop: '80px'}} >
+      <AppContainer>
         <Router />
-      </div>
+      </AppContainer>
     </Grid>
   );
 }
